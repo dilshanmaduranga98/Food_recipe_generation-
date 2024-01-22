@@ -1,0 +1,9 @@
+# train and val data 
+train: ./content/train.txt  
+val: ./content/valid.txt
+
+# number of classes
+nc: 9
+
+# class names
+names: [ 'buger bun', 'letus', 'tomato slice','tomoto slice', 'union', 'pickel', 'meat', 'chees sclice','']
